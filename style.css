@@ -42,3 +42,7 @@ h1{
 h2{
   color: pink;
 }
+
+.big{
+  width: 300px;
+}
