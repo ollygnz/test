@@ -29,3 +29,16 @@ body {
     transform: rotate(-359deg);
    }
   }
+
+a{
+  color: yellow;
+}
+
+h1{
+  color: white;
+  font-family: 'Arbutus', serif;
+}
+
+h2{
+  color: pink;
+}
